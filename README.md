@@ -1,27 +1,21 @@
 **Hi !**
 I'm Antoine Lemarchand, welcome to my readme !  
 
-I'm interested in open source soft and hardware but also software and web development ! 
-
-## Formation
-I have bachelor in statistics applied to informatic from the University of Rennes 2.
-I am currently working toward a software development carreer ! 
-
-## Work 
-You can see my portfolio just [here !](https://betonetignorance.fr) (its a work in progress so please enjoy my concrete ecommerce for now)
-
+[![Alemarch's 42 stats](https://badge42.herokuapp.com/api/stats/alemarch?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[portfolio](https://antoinelemarchand.xyw) (Work in progress)
 ## Skills
 
 #### Backend
 * Bash
-* Python
 * PHP
 * LUA
 * C/C++
+* Node.js (express)
 
 ### Frontend
 * HTML/CSS
 * JS (plain)
+* React
 
 ### Other
 * Git
