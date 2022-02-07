@@ -1,16 +1,12 @@
-**Hi !**
-I'm Antoine Lemarchand, welcome to my readme !
-
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alemarch?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 ### [portfolio](https://antoinelemarchand.xyz) (Work in progress)
 ## Skills
 
-#### Backend
+#### Languages
 * Bash
-* PHP
 * LUA
 * C/C++
-* Node.js (express)
+* Rust
 
 ### Frontend
 * HTML/CSS
