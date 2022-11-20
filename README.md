@@ -1,4 +1,7 @@
-[![alemarch's 42 stats](https://badge42.vercel.app/api/v2/cl167flm2000609l6jc2uzqsh/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
-### [portfolio](https://antoinelemarchand.xyz)
-### [42Cursus](https://github.com/AntoineLemarchand/42Cursus)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineLemarchand&theme=blue-green)
+# welcome to my github !
+The repo in this account are in the process to moving to [sourcehut]() and will all be archived soon !
+Free software is important !
+
+## Still, here a few links
+- [portfolio](https://antoinelemarchand.xyz)
+- [42Cursus status](https://github.com/AntoineLemarchand/42Cursus)
