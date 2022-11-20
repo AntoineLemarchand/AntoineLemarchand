@@ -1,5 +1,5 @@
 # welcome to my github !
-The repo in this account are in the process to moving to [sourcehut]() and will all be archived soon !
+The repo in this account are in the process to moving to [sourcehut](https://sr.ht/~alemarch/) and will all be archived soon !
 Free software is important !
 
 ## Still, here a few links
