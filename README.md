@@ -1,7 +1,6 @@
 # welcome to my github !
-The repo in this account are in the process to moving to [sourcehut](https://sr.ht/~alemarch/) and will all be archived soon !
-Free software is important !
+I'm Antoine Lemarchand, a full stack dev mainly using javascript, still, i am very interesting in automatic deployment and free software !
 
-## Still, here a few links
+## A few links
 - [portfolio](https://antoinelemarchand.xyz)
 - [42Cursus status](https://github.com/AntoineLemarchand/42Cursus)
